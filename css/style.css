@@ -326,7 +326,9 @@ section {
   border-top: 1px solid white;
 }
 
-
+#details div {
+  height: 221px;
+}
 
 #details a:link, #details a:visited {
   color: black;
