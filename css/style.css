@@ -81,7 +81,7 @@ iframe {
   border: 0;
   padding: 0;
   margin: 0;
-  overflow: scroll;
+  overflow: hidden;
   height: 403px;
 }
 
